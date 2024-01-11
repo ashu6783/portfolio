@@ -749,7 +749,7 @@ body::selection {
     background-clip: text;
     -webkit-background-clip: text;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     #introduction {
       display: block;
     }
